@@ -47,7 +47,7 @@ MIT License
 
 ## Contributors
 
-- [Your Name]
+- MD Shazzad Ahammed Shuvo
 
 ## Acknowledgments
 
